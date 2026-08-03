@@ -1,0 +1,138 @@
+/* Палитры редкостей/эффектов */
+.card-bronze {
+    background: linear-gradient(135deg, #f3d1c4 0%, #d39a6a 40%, #8d6e63 80%);
+}
+
+.card-silver {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 40%, #f5f7fa 100%);
+}
+
+.card-gold {
+    background: linear-gradient(135deg, #fff9c4 0%, #ffd54f 40%, #ffb300 70%, #fff8e1 100%);
+}
+
+.card-platinum {
+    background: linear-gradient(135deg, #f7f7f7 0%, #d9d9d9 40%, #b0b0b0 70%, #ffffff 100%);
+}
+
+.card-crystal {
+    background: linear-gradient(135deg, #e8f5e8 0%, #c8e6c9 40%, #a5d6a7 100%);
+}
+
+.card-poison {
+    background: linear-gradient(135deg, #4a148c 0%, #7b1fa2 30%, #ab47bc 60%, #ba68c8 100%);
+}
+
+.card-cursed {
+    background: linear-gradient(135deg, #212121 0%, #424242 30%, #616161 60%, #9e9e9e 100%);
+}
+
+.card-rusted {
+    background: linear-gradient(135deg, #6d4c41 0%, #a1887f 30%, #d7ccc8 60%, #c4a484 100%);
+}
+
+.card-plague {
+    background: linear-gradient(135deg, #1b5e20 0%, #388e3c 30%, #66bb6a 60%, #a5d6a7 100%);
+}
+
+.card-demonic {
+    background: linear-gradient(135deg, #880e4f 0%, #c2185b 30%, #ec407a 60%, #f48fb1 100%);
+}
+
+.card-void {
+    background: linear-gradient(135deg, #0d1117 0%, #21262d 40%, #30363d 100%);
+    border: 1px solid #ff1744;
+}
+
+.card-emerald {
+    background: linear-gradient(135deg, #2e7d32 0%, #4caf50 40%, #81c784 100%);
+}
+
+.card-ruby {
+    background: linear-gradient(135deg, #d50000 0%, #f44336 40%, #ef5350 100%);
+}
+
+/* Алмазная карта - яркий голубовато-белый с бриллиантовым блеском */
+.card-diamond {
+    background: linear-gradient(135deg, #e1f5fe 0%, #81d4fa 40%, #29b6f6 70%, #e1f5fe 100%);
+}
+
+/* Таинственная карта - магический фиолетово-синий градиент */
+.card-arcane {
+    background: linear-gradient(135deg, #311b92 0%, #512da8 30%, #673ab7 60%, #9575cd 100%);
+}
+
+/* Освящённая карта - святое золотисто-белое свечение */
+.card-blessed {
+    background: linear-gradient(135deg, #fffde7 0%, #fff9c4 30%, #fff59d 60%, #ffeb3b 100%);
+}
+
+/* Обсидиановая карта - тёмный чёрно-серый с красными прожилками */
+.card-obsidian {
+    background: linear-gradient(135deg, #1c1c1c 0%, #3e3e3e 40%, #5e5e5e 70%, #2c2c2c 100%);
+    border: 1px solid #b71c1c;
+}
+
+/* Сапфировая карта - глубокий синий с холодным блеском */
+.card-sapphire {
+    background: linear-gradient(135deg, #0d47a1 0%, #1565c0 40%, #1976d2 70%, #42a5f5 100%);
+}
+
+/* Звёздная карта - космический тёмно-синий с мерцанием */
+.card-stellar {
+    background: linear-gradient(135deg, #0a1929 0%, #1a237e 30%, #283593 60%, #3949ab 100%);
+}
+
+/* Фениксовая карта - огненный оранжево-красный градиент */
+.card-phoenix {
+    background: linear-gradient(135deg, #e65100 0%, #f57c00 30%, #ff9800 60%, #ffb74d 100%);
+}
+
+/* Эфирная карта - светящийся голубовато-белый эфир */
+.card-aether {
+    background: linear-gradient(135deg, #b3e5fc 0%, #81d4fa 30%, #4fc3f7 60%, #29b6f6 100%);
+}
+
+/* Треснутая карта - серо-бежевый с трещинами */
+.card-fractured {
+    background: linear-gradient(135deg, #bdbdbd 0%, #9e9e9e 30%, #757575 60%, #616161 100%);
+    border: 2px dashed rgba(0, 0, 0, 0.5);
+}
+
+/* Теневая карта - тёмно-серый туманный */
+.card-shadow {
+    background: linear-gradient(135deg, #37474f 0%, #455a64 30%, #546e7a 60%, #607d8b 100%);
+}
+
+/* Хрупкая карта - бледный треснувший серо-голубой */
+.card-brittle {
+    background: linear-gradient(135deg, #cfd8dc 0%, #b0bec5 30%, #90a4ae 60%, #78909c 100%);
+    border: 1px dashed rgba(255, 255, 255, 0.4);
+}
+
+/* Адская карта - пылающий красно-чёрный */
+.card-infernal {
+    background: linear-gradient(135deg, #b71c1c 0%, #c62828 30%, #d32f2f 60%, #e53935 100%);
+}
+
+/* Иссохшая карта - выцветший коричнево-серый */
+.card-withered {
+    background: linear-gradient(135deg, #8d6e63 0%, #a1887f 30%, #bcaaa4 60%, #d7ccc8 100%);
+}
+
+/* Порченая карта - болезненный зелёно-серый */
+.card-corrupted {
+    background: linear-gradient(135deg, #33691e 0%, #558b2f 30%, #689f38 60%, #7cb342 100%);
+}
+
+/* Разбитая карта - разрушенный серо-чёрный с осколками */
+.card-shattered {
+    background: linear-gradient(135deg, #263238 0%, #37474f 30%, #455a64 60%, #546e7a 100%);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Карта-крикунья - призрачный бледно-зелёный */
+.card-banshee {
+    background: linear-gradient(135deg, #1b5e20 0%, #2e7d32 30%, #388e3c 60%, #43a047 100%);
+    border: 1px solid #76ff03;
+}
